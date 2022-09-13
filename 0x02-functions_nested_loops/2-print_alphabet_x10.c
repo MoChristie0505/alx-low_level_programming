@@ -10,8 +10,8 @@ for (k = 0; k < 10; k++);
 {
 for (j = 'a'; j <= 'z'; j++);
 {
-purchar('j');
+putchar('j');
 }
-purchar('\n');
+putchar('\n');
 }
 }
