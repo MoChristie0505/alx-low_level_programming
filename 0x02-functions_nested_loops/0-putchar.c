@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -print purchar
+ * main - print purchar
  * Return: Always 0
  */
 int main (void)
