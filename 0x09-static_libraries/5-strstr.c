@@ -28,7 +28,7 @@ if (!*needle)
 return (or_haystack);
 }
 needle = or_needle;
-or_haystack++
+or_haystack++;
 haystack = or_haystack;
 }
 return (0);
